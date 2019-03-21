@@ -91,7 +91,7 @@ body {
                 @include border-radius($paginatorElementBorderRadius);
                 
                 &.ui-state-active {
-                    background-color: $highlightBgColor;
+                    background-color: $primaryThirdColor;
                     color: $highlightColorText;
                 }
                 

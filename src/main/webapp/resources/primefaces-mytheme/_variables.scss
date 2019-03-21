@@ -1,8 +1,12 @@
 //main color scheme
 $primaryColor:#489E4E;
 $primaryDarkerColor:#107D11;
-$primaryThirdColor:#ece8da;
+$primaryThirdColor:#f4f4f4;
 $primaryTextColor:#ffffff;
+$standartTextColor:#333333;
+$primaryHoverColor:#f3e8fc;
+$primaryActiveColor:#BECFE2;
+
 //global
 $fontFamily:"Roboto","Helvetica Neue",sans-serif;
 $fontSize:14px;
@@ -23,8 +27,8 @@ $linkHoverColor:$primaryDarkerColor;
 $linkActiveColor: $primaryThirdColor;
 
 //highlight
-$highlightBgColor:$primaryColor;
-$highlightColorText:$primaryTextColor;
+$highlightBgColor:$primaryActiveColor;
+$highlightColorText:$standartTextColor;
 
 //input field
 $inputPadding:.429em;
@@ -52,7 +56,7 @@ $inputListPadding:0;
 $inputListItemPadding:.429em .857em;
 $inputListItemBgColor:transparent;
 $inputListItemTextColor:#333333;
-$inputListItemHoverBgColor:#D4CCB3;
+$inputListItemHoverBgColor:#f3e8fc;
 $inputListItemHoverTextColor:#333333;
 $inputListItemHighlightBgColor:$highlightBgColor;
 $inputListItemHighlightTextColor:$highlightColorText;
@@ -110,7 +114,7 @@ $roundedButtonBorderRadius:1em;
 
 //button severities
 $secondaryButtonBgColor:#f4f4f4;
-$secondaryButtonBorder:1px solid #f4f4f4;
+$secondaryButtonBorder:1px solid #c8c8c8;
 $secondaryButtonTextColor:#333333;
 $secondaryButtonHoverBgColor:#c8c8c8;
 $secondaryButtonHoverTextColor:#212121;
@@ -220,7 +224,7 @@ $toggleButtonFocusIconColor:#212121;
 
 //inplace
 $inplacePadding:.429em;
-$inplaceHoverBgColor:#D4CCB3;
+$inplaceHoverBgColor:#f3e8fc;
 $inplaceHoverTextColor:$textColor;
 $inplaceTransition:background-color $transitionDuration;
 
@@ -263,7 +267,7 @@ $calendarTableMargin:.857em 0 0 0;
 $calendarCellPadding:.286em;
 $calendarCellDatePadding:.286em;
 $calendarCellDateAnchorPadding:.286em;
-$calendarCellDateHoverBgColor:#D4CCB3;
+$calendarCellDateHoverBgColor:#f3e8fc;
 $calendarCellDateBorderRadius:$borderRadius;
 $calendarCellDateSelectedBgColor:$primaryColor;
 $calendarCellDateSelectedTextColor:#ffffff;
@@ -281,13 +285,13 @@ $spinnerButtonBorder:0 none;
 $spinnerButtonBgColor:transparent;
 $spinnerButtonTextColor:$textColor;
 $spinnerButtonHoverBorder:0 none;
-$spinnerButtonHoverBgColor:#D4CCB3;
+$spinnerButtonHoverBgColor:#f3e8fc;
 $spinnerButtonHoverTextColor:$textColor;
 $spinnerButtonActiveBorder:0 none;
 $spinnerButtonActiveBgColor:$primaryColor;
 $spinnerButtonActiveTextColor:#ffffff;
 $spinnerButtonFocusBorder:0 none;
-$spinnerButtonFocusBgColor:#D4CCB3;
+$spinnerButtonFocusBgColor:#f3e8fc;
 $spinnerButtonFocusTextColor:$textColor;
 
 //input switch
@@ -313,7 +317,7 @@ $keyboardButtonBorder:1px solid transparent;
 $keyboardButtonBgColor:#ffffff;
 $keyboardButtonTextColor:$textColor;
 $keyboardButtonHoverBorder:1px solid transparent;
-$keyboardButtonHoverBgColor:#D4CCB3;
+$keyboardButtonHoverBgColor:#f3e8fc;
 $keyboardButtonHoverTextColor:$textColor;
 $keyboardButtonActiveBorder:1px solid $primaryColor;
 $keyboardButtonActiveBgColor:$primaryColor;
@@ -326,8 +330,8 @@ $keyboardSpecialButtonHoverBgColor: $primaryThirdColor;
 $keyboardSpecialButtonHoverTextColor:#ffffff;
 
 //panel common
-$panelHeaderBorder:1px solid #d4ccb0;
-$panelHeaderBgColor:#ece8da;
+$panelHeaderBorder:1px solid #c8c8c8;
+$panelHeaderBgColor:#efefef;
 $panelHeaderTextColor:#333333;
 $panelHeaderIconColor:#848484;
 $panelHeaderIconHoverColor:#333333;
@@ -335,26 +339,26 @@ $panelHeaderIconTransition:color $transitionDuration;
 $panelHeaderFontWeight:700;
 $panelHeaderPadding:.571em 1em;
 $panelContentBorder:1px solid #c8c8c8;
-$panelContentBgColor:#f9f7ed;
+$panelContentBgColor:#fff;
 $panelContentTextColor:$textColor;
 $panelContentPadding:.571em 1em;
 $panelContentLineHeight:1.5;
 $panelFooterBorder:1px solid #c8c8c8;
-$panelFooterBgColor:#f9f7ed;
+$panelFooterBgColor:$primaryThirdColor;
 $panelFooterTextColor:$textColor;
 $panelFooterPadding:.571em 1em;
-$panelHeaderHoverBgColor:#D4CCB3;
+$panelHeaderHoverBgColor:#f3e8fc;
 $panelHeaderHoverBorder:1px solid #dbdbdb;
 $panelHeaderHoverTextColor:#333333;
 $panelHeaderHoverIconColor:#333333;
-$panelHeaderActiveBgColor:$primaryColor;
-$panelHeaderActiveBorder:1px solid $primaryColor;
-$panelHeaderActiveTextColor:#ffffff;
-$panelHeaderActiveIconColor:#ffffff;
-$panelHeaderActiveHoverBgColor:$primaryDarkerColor;
-$panelHeaderActiveHoverBorder:1px solid $primaryDarkerColor;
-$panelHeaderActiveHoverTextColor:#ffffff;
-$panelHeaderActiveHoverIconColor:#ffffff;
+$panelHeaderActiveBgColor:$primaryActiveColor;
+$panelHeaderActiveBorder:1px solid #c8c8c8;
+$panelHeaderActiveTextColor:$standartTextColor;
+$panelHeaderActiveIconColor:$standartTextColor;
+$panelHeaderActiveHoverBgColor:$primaryActiveColor;
+$panelHeaderActiveHoverBorder:1px solid #c8c8c8;
+$panelHeaderActiveHoverTextColor:$standartTextColor;
+$panelHeaderActiveHoverIconColor:$standartTextColor;
 $panelHeaderTransition:0 none;
 
 //accordion
@@ -377,7 +381,7 @@ $paginatorIconColor:$textSecondaryColor;
 $paginatorPadding:0;
 $paginatorElementWidth:2.286em;
 $paginatorElementHeight:2.286em;
-$paginatorElementHoverBgColor:#ece8da;
+$paginatorElementHoverBgColor:$primaryHoverColor;
 $paginatorElementHoverIconColor:#333333;
 $paginatorElementMargin:0;
 $paginatorElementBorder:0 none;
@@ -389,13 +393,13 @@ $datatableHeaderCellBgColor:#489E4E;
 $datatableHeaderCellTextColor:#ffffff;
 $datatableHeaderCellFontWeight:700;
 $datatableHeaderCellBorder:1px solid #c8c8c8;
-$datatableHeaderCellHoverBgColor:#ece8da;
+$datatableHeaderCellHoverBgColor:$primaryColor;
 $datatableHeaderCellHoverTextColor:#333333;
 $datatableBodyRowBgColor:#ffffff;
 $datatableBodyRowTextColor:$textColor;
 $datatableBodyRowBorder:1px solid #c8c8c8;
-$datatableBodyRowEvenBgColor:#ece8da;
-$datatableBodyRowHoverBgColor:#D4CCB3;
+$datatableBodyRowEvenBgColor:#f4f4f4;
+$datatableBodyRowHoverBgColor:#f3e8fc;
 $datatableBodyRowHoverTextColor:#333333;
 $datatableBodyCellPadding:.429em .857em;
 $datatableFooterCellPadding:.429em .857em;
@@ -479,7 +483,7 @@ $menuitemTextColor:#333333;
 $menuitemIconColor:#333333;
 $menuitemHoverTextColor:#333333;
 $menuitemHoverIconColor:#333333;
-$menuitemHoverBgColor:#D4CCB3;
+$menuitemHoverBgColor:#f3e8fc;
 $toggleableMenuHeaderMargin:1px;
 $overlayMenuBorder:1px solid #c8c8c8;
 $overlayMenuShadow:0 3px .429em 0 rgba(0, 0, 0, 0.16);
