@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fe4e5c7-c1c6-49e0-903a-0b6739649042" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/5a4e78db95dd016f09af085507e8e7070f685572/_variables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/5a4e78db95dd016f09af085507e8e7070f685572/_variables.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-    </list>
+    <list default="true" id="2fe4e5c7-c1c6-49e0-903a-0b6739649042" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -200,7 +190,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553414746028" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553415186138" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -228,18 +218,17 @@
       <option name="presentableId" value="Default" />
       <updated>1553166063632</updated>
       <workItem from="1553166067559" duration="11447000" />
-      <workItem from="1553249637266" duration="5209000" />
+      <workItem from="1553249637266" duration="5473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16656000" />
+    <option name="totallyTimeSpent" value="16920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -254,7 +243,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32962447" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32962447" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32962447" />
