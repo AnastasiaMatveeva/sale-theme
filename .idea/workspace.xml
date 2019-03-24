@@ -3,23 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="2fe4e5c7-c1c6-49e0-903a-0b6739649042" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/designer/_data.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_data.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/5a4e78db95dd016f09af085507e8e7070f685572/_variables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/5a4e78db95dd016f09af085507e8e7070f685572/_variables.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/designer-1.0.0/resources/designer/_data.scss" beforeDir="false" afterPath="$PROJECT_DIR$/target/designer-1.0.0/resources/designer/_data.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/theme.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/designer-1.0.0/resources/primefaces-mytheme/theme.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/org/primefaces/designer/1.0.0/designer-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/org/primefaces/designer/1.0.0/designer-1.0.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/org/primefaces/designer/1.0.0/designer-1.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/org/primefaces/designer/1.0.0/designer-1.0.0.war.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/org/primefaces/designer/1.0.0/designer-1.0.0.war.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/org/primefaces/designer/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/org/primefaces/designer/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-repo/org/primefaces/designer/maven-metadata.xml.sha1" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -39,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="354" column="36" selection-start-line="354" selection-start-column="36" selection-end-line="354" selection-end-column="36" />
+            <state relative-caret-position="135">
+              <caret line="485" column="40" selection-start-line="485" selection-start-column="40" selection-end-line="485" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="4265" selection-start-line="4265" selection-end-line="4265" />
             </state>
           </provider>
         </entry>
@@ -51,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/designer/_data.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="93" column="56" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="56" />
+            <state relative-caret-position="1710">
+              <caret line="114" column="49" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -79,6 +79,13 @@
       <find>paginator-page.</find>
       <find>#BECFE2</find>
       <find>panel</find>
+      <find>standart</find>
+      <find>input</find>
+      <find>data</find>
+      <find>.ui-datatable-header</find>
+      <find>f3e</find>
+      <find>.ui-tabmenu-nav</find>
+      <find>f3</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,6 +97,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/designer/_data.scss" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_variables.scss" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css" />
       </list>
     </option>
   </component>
@@ -181,31 +189,7 @@
             <path>
               <item name="designer" type="b2602c69:ProjectViewProjectNode" />
               <item name="sale-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="designer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sale-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="primefaces-mytheme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sale-theme" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sale-theme" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,7 +200,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553183919489" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553414746028" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -243,30 +227,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553166063632</updated>
-      <workItem from="1553166067559" duration="9332000" />
+      <workItem from="1553166067559" duration="11447000" />
+      <workItem from="1553249637266" duration="5209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9332000" />
+    <option name="totallyTimeSpent" value="16656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32962447" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" weight="0.32962447" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32962447" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32684284" />
@@ -274,16 +254,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" weight="0.3297568" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="JSF" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32962447" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32962447" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32962447" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,15 +285,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/designer/_data.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="93" column="56" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="56" />
+        <state relative-caret-position="1710">
+          <caret line="114" column="49" selection-start-line="114" selection-start-column="30" selection-end-line="114" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="354" column="36" selection-start-line="354" selection-start-column="36" selection-end-line="354" selection-end-column="36" />
+        <state relative-caret-position="135">
+          <caret line="485" column="40" selection-start-line="485" selection-start-column="40" selection-end-line="485" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="4265" selection-start-line="4265" selection-end-line="4265" />
         </state>
       </provider>
     </entry>
